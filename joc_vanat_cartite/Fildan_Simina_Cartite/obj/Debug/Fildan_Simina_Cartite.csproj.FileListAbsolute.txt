@@ -1,0 +1,60 @@
+D:\C\12C\Fildan_Simina_Cartite\Fildan_Simina_Cartite\bin\Debug\Fildan_Simina_Cartite.exe.config
+D:\C\12C\Fildan_Simina_Cartite\Fildan_Simina_Cartite\bin\Debug\Fildan_Simina_Cartite.exe
+D:\C\12C\Fildan_Simina_Cartite\Fildan_Simina_Cartite\bin\Debug\Fildan_Simina_Cartite.pdb
+D:\C\12C\Fildan_Simina_Cartite\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.csprojAssemblyReference.cache
+D:\C\12C\Fildan_Simina_Cartite\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.Form1.resources
+D:\C\12C\Fildan_Simina_Cartite\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.Properties.Resources.resources
+D:\C\12C\Fildan_Simina_Cartite\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.csproj.GenerateResource.cache
+D:\C\12C\Fildan_Simina_Cartite\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.csproj.CoreCompileInputs.cache
+D:\C\12C\Fildan_Simina_Cartite\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.exe
+D:\C\12C\Fildan_Simina_Cartite\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.pdb
+F:\Fildan_Simina_Cartite\Fildan_Simina_Cartite\bin\Debug\Fildan_Simina_Cartite.exe.config
+F:\Fildan_Simina_Cartite\Fildan_Simina_Cartite\bin\Debug\Fildan_Simina_Cartite.exe
+F:\Fildan_Simina_Cartite\Fildan_Simina_Cartite\bin\Debug\Fildan_Simina_Cartite.pdb
+F:\Fildan_Simina_Cartite\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.csprojAssemblyReference.cache
+F:\Fildan_Simina_Cartite\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.Form1.resources
+F:\Fildan_Simina_Cartite\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.Properties.Resources.resources
+F:\Fildan_Simina_Cartite\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.csproj.GenerateResource.cache
+F:\Fildan_Simina_Cartite\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.csproj.CoreCompileInputs.cache
+F:\Fildan_Simina_Cartite\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.exe
+F:\Fildan_Simina_Cartite\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.pdb
+D:\Fildan_Simina_Cartite\Fildan_Simina_Cartite\bin\Debug\Fildan_Simina_Cartite.exe.config
+D:\Fildan_Simina_Cartite\Fildan_Simina_Cartite\bin\Debug\Fildan_Simina_Cartite.exe
+D:\Fildan_Simina_Cartite\Fildan_Simina_Cartite\bin\Debug\Fildan_Simina_Cartite.pdb
+D:\Fildan_Simina_Cartite\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.csproj.AssemblyReference.cache
+D:\Fildan_Simina_Cartite\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.Form1.resources
+D:\Fildan_Simina_Cartite\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.Properties.Resources.resources
+D:\Fildan_Simina_Cartite\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.csproj.GenerateResource.cache
+D:\Fildan_Simina_Cartite\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.csproj.CoreCompileInputs.cache
+D:\Fildan_Simina_Cartite\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.exe
+D:\Fildan_Simina_Cartite\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.pdb
+D:\Fildan_Simina_Cartite\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.Form2.resources
+D:\Fildan_Simina_Cartite\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.Form3.resources
+F:\Fildan_Simina_Cartite\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.Form2.resources
+F:\Fildan_Simina_Cartite\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.Form3.resources
+D:\Fildan_Simina_Cartite - Copy\Fildan_Simina_Cartite\bin\Debug\Fildan_Simina_Cartite.exe.config
+D:\Fildan_Simina_Cartite - Copy\Fildan_Simina_Cartite\bin\Debug\Fildan_Simina_Cartite.exe
+D:\Fildan_Simina_Cartite - Copy\Fildan_Simina_Cartite\bin\Debug\Fildan_Simina_Cartite.pdb
+D:\Fildan_Simina_Cartite - Copy\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.csproj.AssemblyReference.cache
+D:\Fildan_Simina_Cartite - Copy\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.Form1.resources
+D:\Fildan_Simina_Cartite - Copy\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.Form2.resources
+D:\Fildan_Simina_Cartite - Copy\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.Form3.resources
+D:\Fildan_Simina_Cartite - Copy\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.Properties.Resources.resources
+D:\Fildan_Simina_Cartite - Copy\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.csproj.GenerateResource.cache
+D:\Fildan_Simina_Cartite - Copy\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.csproj.CoreCompileInputs.cache
+D:\Fildan_Simina_Cartite - Copy\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.exe
+D:\Fildan_Simina_Cartite - Copy\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.pdb
+D:\Fildan_Simina_Cartite - Copy\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.Form4.resources
+F:\Fildan_Simina_Cartite - Copy\Fildan_Simina_Cartite\bin\Debug\Fildan_Simina_Cartite.exe.config
+F:\Fildan_Simina_Cartite - Copy\Fildan_Simina_Cartite\bin\Debug\Fildan_Simina_Cartite.exe
+F:\Fildan_Simina_Cartite - Copy\Fildan_Simina_Cartite\bin\Debug\Fildan_Simina_Cartite.pdb
+F:\Fildan_Simina_Cartite - Copy\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.csprojAssemblyReference.cache
+F:\Fildan_Simina_Cartite - Copy\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.Form1.resources
+F:\Fildan_Simina_Cartite - Copy\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.Form2.resources
+F:\Fildan_Simina_Cartite - Copy\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.Form3.resources
+F:\Fildan_Simina_Cartite - Copy\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.Form4.resources
+F:\Fildan_Simina_Cartite - Copy\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.Properties.Resources.resources
+F:\Fildan_Simina_Cartite - Copy\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.csproj.GenerateResource.cache
+F:\Fildan_Simina_Cartite - Copy\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.csproj.CoreCompileInputs.cache
+F:\Fildan_Simina_Cartite - Copy\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.exe
+F:\Fildan_Simina_Cartite - Copy\Fildan_Simina_Cartite\obj\Debug\Fildan_Simina_Cartite.pdb
